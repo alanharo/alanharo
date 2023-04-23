@@ -1,4 +1,4 @@
-###👋 Welcome to my professional portfolio! 
+### 👋 Welcome to my professional portfolio! 
 This repository contains a collection of my data-related projects.
 - 🌱 I’m currently studying a Master in Business Analytics and Big Data at IE.
 - 📫 How to reach me: look at my contact info and let's get in touch!
