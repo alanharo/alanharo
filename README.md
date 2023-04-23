@@ -1,16 +1,21 @@
-### Hi there 👋
+###👋 Welcome to my professional portfolio! 
+This repository contains a collection of my data-related projects.
+- 🌱 I’m currently studying a Master in Business Analytics and Big Data at IE.
+- 📫 How to reach me: look at my contact info and let's get in touch!
+- ⚡ Fun fact: I love to cook, I am Mexican but I strongly dislike cilantro.
 
-<!--
-**alanharo/alanharo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects
 
-Here are some ideas to get you started:
+In this repository, you will find various data-related projects that highlight my expertise in the field, such as:
+- Data Analysis
+- Machine Learning
+- Data Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Each project folder has a README file with installation and usage instructions.
+
+
+## Contact
+
+If you have any questions or would like to discuss potential collaborations, feel free to reach out to me at ahescandon@gmail.com.
+
+
